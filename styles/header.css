@@ -32,6 +32,9 @@
   text-decoration: none;
   color: #000;
 }
+.nav__link:hover {
+  color: #ff976b;
+}
 
 .header__title {
   max-width: 709px;
