@@ -62,6 +62,10 @@
   color: #fff;
 }
 
+.footer__social-link:hover {
+  color: #ffd6c5;
+}
+
 .footer__social-logo {
   height: 16px;
   width: 16px;
